@@ -2,4 +2,10 @@ ex1
 ===
 
 ex1 is basically a factorial server
-it just a process 0
+ process 0
+ process 1
+ process 2
+  ***  ***  ***  ***  ***
+       ***  ***  ***
+            ***
+  
